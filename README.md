@@ -4,7 +4,7 @@ This project provides an example of how machine learning is employed to classify
 
 ## Python Libraries
 
-These Python libraries that are in bold are used in the project for statistical techniques, machine leanring models, data processing, and visualization.
+These Python libraries that are in bold are used in the project for statistical techniques, machine learning models, data processing, and visualization.
 
 **pandas, random, numpy, sklearn, seaborn, matplotlib.pyplot,IPython.display, scipy, statistics, warnings, mpl_toolkits.mplot3d.**
 
